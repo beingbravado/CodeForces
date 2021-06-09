@@ -1,0 +1,1 @@
+{"name":"Local: B475","url":"e:\\JAVA\\CodeForces\\B475.java","tests":[{"id":1623234274840,"input":"3 3\n><>\nv^v","output":"NO"},{"id":1623234506783,"input":"4 6\n<><>\nv^v^v^","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\JAVA\\CodeForces\\B475.java","group":"local","local":true}

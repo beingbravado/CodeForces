@@ -1,0 +1,1 @@
+{"name":"Local: C755","url":"e:\\JAVA\\CodeForces\\C755.java","tests":[{"id":1623216838775,"input":"5\n2 1 5 3 3","output":"2"},{"id":1623216853209,"input":"1\n1","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\JAVA\\CodeForces\\C755.java","group":"local","local":true}

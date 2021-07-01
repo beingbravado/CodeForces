@@ -1,0 +1,1 @@
+{"name":"Local: C1535","url":"e:\\JAVA\\CodeForces\\C1535.java","tests":[{"id":1625116414101,"input":"3\n0?10\n???\n?10??1100","output":"8\n6\n25"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\JAVA\\CodeForces\\C1535.java","group":"local","local":true}

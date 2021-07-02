@@ -1,0 +1,1 @@
+{"name":"Local: B1516","url":"e:\\JAVA\\CodeForces\\B1516.java","tests":[{"id":1625203552308,"input":"2\n3\n0 2 2\n4\n2 3 1 10","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\JAVA\\CodeForces\\B1516.java","group":"local","local":true}

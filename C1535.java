@@ -24,9 +24,9 @@ public class C1535 {
                     last = i;
                 }
                 ans += ++count;
-                // System.out.print(ans + " ");
+                System.out.print(ans + " ");
             }
-            // System.out.println(ans);
+            System.out.println(ans);
             sb.append(ans + "\n");
         }
         System.out.println(sb);

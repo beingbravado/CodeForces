@@ -1,0 +1,1 @@
+{"name":"Local: C1476","url":"e:\\JAVA\\CodeForces\\C1476.java","tests":[{"id":1625732451962,"input":"3\n4\n3 4 3 3\n-1 1 2 2\n-1 2 2 3\n2\n5 6\n-1 5\n-1 1\n3\n3 5 2\n-1 1 1\n-1 3 5","output":"7\n11\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\JAVA\\CodeForces\\C1476.java","group":"local","local":true}

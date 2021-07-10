@@ -1,0 +1,1 @@
+{"name":"Local: D1539","url":"e:\\JAVA\\CodeForces\\D1539.java","tests":[{"id":1625558806567,"input":"3\n3 4\n1 3\n1 5","output":"8"},{"id":1625558815536,"input":"5\n2 7\n2 8\n1 2\n2 4\n1 8","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\JAVA\\CodeForces\\D1539.java","group":"local","local":true}
